@@ -28,7 +28,7 @@ dependencies:
   - shapely>=1.6.4
   - tensorflow=1.13.1
   - torchvision>=0.5.0
-  - cudatoolkit=9.2
+#  - cudatoolkit=9.2  # Disabled for macOS
   - tqdm>=4.40.0
   - urllib3>=1.25.7
   - pip:
