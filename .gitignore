@@ -4,3 +4,22 @@ cache/*
 .vscode
 *.tif
 .env
+data/.DS_Store
+data/images/.DS_Store
+data/images/s1024_z19/.DS_Store
+
+# Python virtual environment
+rooftop_env/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
